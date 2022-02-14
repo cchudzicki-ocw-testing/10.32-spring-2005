@@ -7,7 +7,12 @@ description: 'Two problems: the first problem deals with a distillation column f
   are shown in the attached graph.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/10-32-separation-processes-spring-2005/e1c3d9643881729b8edce4d97ef9ac6b_10_32_ps2_wgraph.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 10_32_ps2_wgraph.pdf
+type: OCWFile
 uid: e1c3d964-3881-729b-8edc-e4d97ef9ac6b
 ---
