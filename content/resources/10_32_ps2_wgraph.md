@@ -13,6 +13,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 10_32_ps2_wgraph.pdf
-type: OCWFile
 uid: e1c3d964-3881-729b-8edc-e4d97ef9ac6b
 ---

@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 10_32ps2solution.pdf
-type: OCWFile
 uid: cb3f8e3d-c7b6-3f8e-bcf4-bf205274fded
 ---

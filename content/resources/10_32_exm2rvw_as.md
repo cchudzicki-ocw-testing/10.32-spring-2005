@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 10_32_exm2rvw_as.pdf
-type: OCWFile
 uid: 8b012e75-f08c-89d7-84d0-db24e427f6b8
 ---

@@ -9,6 +9,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: 10_32exm1rvwprob.pdf
-type: OCWFile
 uid: 3d86dca6-3699-0ec2-9acf-34c439d7c550
 ---
