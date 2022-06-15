@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Three exams and two sets of exam review problems.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
