@@ -6,6 +6,7 @@ file: /courses/10-32-separation-processes-spring-2005/8b012e75f08c89d784d0db24e4
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
